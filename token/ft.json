@@ -1,0 +1,530 @@
+[
+  {
+    "symbol": "NOX",
+    "name": "Nox",
+    "address": "0x5166FA1AcbA89E5e0DE27841a1110B7f9aC112Da",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x5166fa1acba89e5e0de27841a1110b7f9ac112da.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "WIKEN",
+    "name": "ProjectWITH",
+    "address": "0x275F942985503d8CE9558f8377cC526A3aBa3566",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x275f942985503d8ce9558f8377cc526a3aba3566.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oBELT",
+    "name": "Orbit Bridge Klaytn BELT Token",
+    "address": "0xDFe180E288158231ffA5faF183ECA3301344a51F",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xdfe180e288158231ffa5faf183eca3301344a51f.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oBNB",
+    "name": "Orbit Bridge Klaytn Binance Coin",
+    "address": "0x574e9c26bDA8b95D7329505b4657103710EB32eA",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x574e9c26bda8b95d7329505b4657103710eb32ea.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oBUSD",
+    "name": "Orbit Bridge Klaytn BUSD Token",
+    "address": "0x210bc03f49052169d5588a52c317f71cf2078b85",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x210bc03f49052169d5588a52c317f71cf2078b85.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oETH",
+    "name": "Orbit Bridge Klaytn Ethereum",
+    "address": "0x34d21b1e550D73cee41151c77F3c73359527a396",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x34d21b1e550d73cee41151c77f3c73359527a396.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oGALA",
+    "name": "Orbit Bridge Klaytn Gala",
+    "address": "0x2842a6D0C182E3F1cF4556311C48A7706D7BA6AD",
+    "decimals": 8,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x2842a6d0c182e3f1cf4556311c48a7706d7ba6ad.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oHANDY",
+    "name": "Orbit Bridge Klaytn Handy Token",
+    "address": "0x3f34671fba493ab39fbf4ecac2943ee62b654a88",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x3f34671fba493ab39fbf4ecac2943ee62b654a88.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oMATIC",
+    "name": "Orbit Bridge Klaytn Matic Token",
+    "address": "0xa006ba407cfc6584c90bac24ed971261885a0fd6",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xa006ba407cfc6584c90bac24ed971261885a0fd6.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oMEGA",
+    "name": "Orbit Bridge Klaytn Megaton Finance",
+    "address": "0x800800500fd721a2e8092bd2d0401841b33b0fe7",
+    "decimals": 9,
+    "icon": "https://config.klaytn.foundation/token/icon/0x800800500fd721a2e8092bd2d0401841b33b0fe7.png",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oMESH",
+    "name": "Orbit Bridge Klaytn Meshswap Protocol",
+    "address": "0x127a75b751ba810e459121af6207d83841c586b7",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x127a75b751ba810e459121af6207d83841c586b7.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oMGOLD",
+    "name": "Orbit Bridge Klaytn Mgold",
+    "address": "0x307ac5598abdf419456ce623c0977499777e5b67",
+    "decimals": 18,
+    "icon": "https://config.klaytn.foundation/token/icon/0x307ac5598abdf419456ce623c0977499777e5b67.png",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oMRST",
+    "name": "Orbit Bridge Klaytn Mars Token",
+    "address": "0x341ba3a6738fd107484fbc4f6b8f6c5fce75d339",
+    "decimals": 18,
+    "icon": "https://config.klaytn.foundation/token/icon/0x341ba3a6738fd107484fbc4f6b8f6c5fce75d339.png",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oMUDOL2",
+    "name": "Orbit Bridge Klaytn Mudol2 Token",
+    "address": "0x549455b9fe3bd53a64e49726b27eb08a92835177",
+    "decimals": 18,
+    "icon": "https://config.klaytn.foundation/token/icon/0x549455b9fe3bd53a64e49726b27eb08a92835177.png",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oORC",
+    "name": "Orbit Bridge Klaytn Orbit Chain",
+    "address": "0xFe41102f325dEaa9F303fDd9484Eb5911a7BA557",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xfe41102f325deaa9f303fdd9484eb5911a7ba557.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oPOLA",
+    "name": "Orbit Bridge Klaytn POLARIS SHARE",
+    "address": "0x2bf4d89453deb5781fccc656a4cac60710af766d",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x2bf4d89453deb5781fccc656a4cac60710af766d.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oTON",
+    "name": "Orbit Bridge Klaytn Tokamak Network Token",
+    "address": "0x100bc15ae8b489c771d9740ea0bb1aea945a1f67",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x100bc15ae8b489c771d9740ea0bb1aea945a1f67.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oTON",
+    "name": "Orbit Bridge Klaytn Toncoin",
+    "address": "0x4b96dbf8f42c8c296573933a6616dcafb80ca461",
+    "decimals": 9,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x4b96dbf8f42c8c296573933a6616dcafb80ca461.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oUSDC",
+    "name": "Orbit Bridge Klaytn USD Coin",
+    "address": "0x754288077D0fF82AF7a5317C7CB8c444D421d103",
+    "decimals": 6,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x754288077d0ff82af7a5317c7cb8c444d421d103.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oUSDT",
+    "name": "Orbit Bridge Klaytn USD Tether",
+    "address": "0xceE8FAF64bB97a73bb51E115Aa89C17FfA8dD167",
+    "decimals": 6,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oWBTC",
+    "name": "Orbit Bridge Klaytn Wrapped BTC",
+    "address": "0x16D0e1fBD024c600Ca0380A4C5D57Ee7a2eCBf9c",
+    "decimals": 8,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oWEMIX",
+    "name": "Orbit Bridge Klaytn WEMIX",
+    "address": "0x67cb285790bb9f5dce728f80a3104a2297df2bb2",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x67cb285790bb9f5dce728f80a3104a2297df2bb2.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "oXRP",
+    "name": "Orbit Bridge Klaytn Ripple",
+    "address": "0x9eaeFb09fe4aABFbE6b1ca316a3c36aFC83A393F",
+    "decimals": 6,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "KICX",
+    "name": "Orbit Bridge Klaytn ICON",
+    "address": "0x8eF60f0a5A2db984431934f8659058E87CD5C70a",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x8ef60f0a5a2db984431934f8659058e87cd5c70a.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "CLAM",
+    "name": "Clam Token",
+    "address": "0xba9725eaccf07044625f1d232ef682216f5371c2",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xba9725eaccf07044625f1d232ef682216f5371c2.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "sBWPM",
+    "name": "BWPM Vault",
+    "address": "0xf4546e1d3ad590a3c6d178d671b3bc0e8a81e27d",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xf4546e1d3ad590a3c6d178d671b3bc0e8a81e27d.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "JADE",
+    "name": "Jade",
+    "address": "0xB3F5867E277798b50ba7A71C0b24FDcA03045eDF",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xb3f5867e277798b50ba7a71c0b24fdca03045edf.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "JEWEL",
+    "name": "JEWEL",
+    "address": "0x30C103f8f5A3A732DFe2dCE1Cc9446f545527b43",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x30c103f8f5a3a732dfe2dce1cc9446f545527b43.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "DRB",
+    "name": "DoctorB",
+    "address": "0x945f68b51cc51709f771e7104990b3f8a3c3ec79",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x945f68b51cc51709f771e7104990b3f8a3c3ec79.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "HIBS",
+    "name": "HiblocksToken",
+    "address": "0xE06b40df899b9717b4E6B50711E1dc72d08184cF",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xe06b40df899b9717b4e6b50711e1dc72d08184cf.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "ISK",
+    "name": "ISKRA TOKEN",
+    "address": "0x17d2628D30F8e9E966c9Ba831c9B9b01ea8Ea75C",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "KBT",
+    "name": "Klaybank Token",
+    "address": "0x946bc715501413b9454bb6a31412a21998763f2d",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x946bc715501413b9454bb6a31412a21998763f2d.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "META",
+    "name": "Klaymeta",
+    "address": "0xE815A060b9279ebA642F8C889FaB7afc0d0acA63",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xe815a060b9279eba642f8c889fab7afc0d0aca63.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "SKLAY",
+    "name": "sKLAY",
+    "address": "0xA323d7386b671E8799dcA3582D6658FdcDcD940A",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xa323d7386b671e8799dca3582d6658fdcdcd940a.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "KSP",
+    "name": "KlaySwap Protocol",
+    "address": "0xC6a2Ad8cC6e4A7E08FC37cC5954be07d499E7654",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "KLEVA",
+    "name": "Kleva Token",
+    "address": "0x5fFF3a6C16C2208103F318F4713D4D90601A7313",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x5fff3a6c16c2208103f318f4713d4d90601a7313.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "KCD",
+    "name": "Klaytn Crypto Dollar",
+    "address": "0x54640a6b9f5a6b0eae043f0a6fd69a4431323356",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x54640a6b9f5a6b0eae043f0a6fd69a4431323356.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "KDAI",
+    "name": "KlaytnDai",
+    "address": "0x5c74070FDeA071359b86082bd9f9b3dEaafbe32b",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x5c74070fdea071359b86082bd9f9b3deaafbe32b.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "GXA",
+    "name": "GALAXIA",
+    "address": "0xA80e96cCeB1419f9BD9F1c67F7978F51b534A11b",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xa80e96cceb1419f9bd9f1c67f7978f51b534a11b.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "MON",
+    "name": "Monstock Token",
+    "address": "0x648fd38efeFb4F97cf2DF3ff93efF70e94Da0691",
+    "decimals": 10,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x648fd38efefb4f97cf2df3ff93eff70e94da0691.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "MOOI",
+    "name": "MOOI",
+    "address": "0x4b734a4d5bf19d89456ab975dfb75f02762dda1d",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x4b734a4d5bf19d89456ab975dfb75f02762dda1d.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "MPWR",
+    "name": "Empower Token",
+    "address": "0xad27ace6f0f6cef2c192a3c8f0f3fa2611154eb3",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xad27ace6f0f6cef2c192a3c8f0f3fa2611154eb3.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "LAY",
+    "name": "LAY007",
+    "address": "0x1223BaF4F5fb9c9002a2154262440B9eD09d01A7",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x1223baf4f5fb9c9002a2154262440b9ed09d01a7.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "PALA",
+    "name": "Pala Token",
+    "address": "0x7A1CdCA99FE5995ab8E317eDE8495c07Cbf488aD",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x7a1cdca99fe5995ab8e317ede8495c07cbf488ad.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "PIB",
+    "name": "Pibble Token",
+    "address": "0xAfdE910130C335fA5bD5fe991053E3E0a49dcE7b",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xafde910130c335fa5bd5fe991053e3e0a49dce7b.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "MARD",
+    "name": "Marmalade Token",
+    "address": "0x79bb4d71f6c168531a259dd6d40a8d5de5a34427",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x79bb4d71f6c168531a259dd6d40a8d5de5a34427.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "NGIT",
+    "name": "Nightingale Token",
+    "address": "0x46db825593ca7c3fdfc9ccb5850ea96c39b79330",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x46db825593ca7c3fdfc9ccb5850ea96c39b79330.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "SSX",
+    "name": "Somesing Exchange",
+    "address": "0xdCd62c57182E780E23d2313C4782709Da85b9D6C",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xdcd62c57182e780e23d2313c4782709da85b9d6c.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "GRND",
+    "name": "SuperWalk",
+    "address": "0x84F8C3C8d6eE30a559D73Ec570d574f671E82647",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x84f8c3c8d6ee30a559d73ec570d574f671e82647.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "WALK",
+    "name": "Walk Token",
+    "address": "0x976232eB7Eb92287fF06c5D145bD0d1C033eCA58",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x976232eb7eb92287ff06c5d145bd0d1c033eca58.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "SCNR",
+    "name": "Swapscanner",
+    "address": "0x8888888888885B073f3C81258C27E83DB228d5f3",
+    "decimals": 25,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x8888888888885b073f3c81258c27e83db228d5f3.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "GCKLAY",
+    "name": "Governance Council KLAY",
+    "address": "0x999999999939ba65abb254339eec0b2a0dac80e9",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x999999999939ba65abb254339eec0b2a0dac80e9.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "WEMIX",
+    "name": "WEMIX TOKEN",
+    "address": "0x5096dB80B21Ef45230C9E423C373f1FC9C0198dd",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x5096db80b21ef45230c9e423c373f1fc9c0198dd.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "AWM",
+    "name": "Another World Metaverse",
+    "address": "0x3043988aa54bb3ae4da60ecb1dc643c630a564f0",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x3043988aa54bb3ae4da60ecb1dc643c630a564f0.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "BORA",
+    "name": "BORA",
+    "address": "0x02cbE46fB8A1F579254a9B485788f2D86Cad51aa",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x02cbe46fb8a1f579254a9b485788f2d86cad51aa.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "BYPE",
+    "name": "BYPE",
+    "address": "0x2ef5f2642674f768b4efe9a7de470a6a68bcb8f3",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x2ef5f2642674f768b4efe9a7de470a6a68bcb8f3.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "CLBK",
+    "name": "Cloudbric",
+    "address": "0xC4407f7DC4B37275c9ce0F839652b393e13fF3D1",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xc4407f7dc4b37275c9ce0f839652b393e13ff3d1.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "COM",
+    "name": "COMPASS PROTOCOL",
+    "address": "0x29435457053d167a2b1f6f2d54d4176866ffb5f9",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x29435457053d167a2b1f6f2d54d4176866ffb5f9.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "GHUB",
+    "name": "GemHUB",
+    "address": "0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x4836cc1f355bb2a61c210eaa0cd3f729160cd95e.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "MBX",
+    "name": "MARBLEX",
+    "address": "0xD068c52d81f4409B9502dA926aCE3301cc41f623",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xd068c52d81f4409b9502da926ace3301cc41f623.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "MNR",
+    "name": "Mineral",
+    "address": "0x27dCd181459bcdDC63c37baB1E404A313C0dfD79",
+    "decimals": 6,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x27dcd181459bcddc63c37bab1e404a313c0dfd79.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "STONE",
+    "name": "PANGEA GOVERNANCE TOKEN",
+    "address": "0xb49e754228bc716129e63b1a7b0b6cf27299979e",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xb49e754228bc716129e63b1a7b0b6cf27299979e.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "PER",
+    "name": "PER Project",
+    "address": "0x7eeE60a000986E9efE7F5C90340738558c24317B",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x7eee60a000986e9efe7f5c90340738558c24317b.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "TRCL",
+    "name": "Treecle",
+    "address": "0x4b91c67a89d4c4b2a4ed9fcde6130d7495330972",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x4b91c67a89d4c4b2a4ed9fcde6130d7495330972.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "PLWI",
+    "name": "PLWI",
+    "address": "0x6bae4b6afc2856b4ac0fb1165cf85c4923302ba2",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0x6bae4b6afc2856b4ac0fb1165cf85c4923302ba2.svg",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "SIX",
+    "name": "SIX",
+    "address": "0xEf82b1C6A550e730D8283E1eDD4977cd01FAF435",
+    "decimals": 18,
+    "icon": "https://static.kaikas.io/extension/tokenIcons/0xef82b1c6a550e730d8283e1edd4977cd01faf435.svg",
+    "chain_id": "8217"
+  }
+]
