@@ -1,5 +1,48 @@
 [
   {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
+    "decimals": 6,
+    "icon": "https://config.klaytn.foundation/token/icon/0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2.png",
+    "chain_id": "8217"
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "address": "0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A",
+    "decimals": 6,
+    "icon": "https://config.klaytn.foundation/token/icon/0x608792Deb376CCE1c9FA4D0E6B7b44f507CfFa6A.png",
+    "chain_id": "8217"
+  },
+
+  {
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "address": "0x98a8345bb9d3dda9d808ca1c9142a28f6b0430e1",
+    "decimals": 18,
+    "icon": "https://config.klaytn.foundation/token/icon/0x98a8345bb9d3dda9d808ca1c9142a28f6b0430e1.png",
+    "chain_id": "8217"
+  },
+
+  {
+    "symbol": "BTCB",
+    "name": "BTCB Token",
+    "address": "0x15d9f3ab1982b0e5a415451259994ff40369f584",
+    "decimals": 18,
+    "icon": "https://config.klaytn.foundation/token/icon/0x15d9f3ab1982b0e5a415451259994ff40369f584.png",
+    "chain_id": "8217"
+  },
+
+  {
+    "symbol": "ACE",
+    "name": "ACEToken",
+    "address": "0xAAecB956075dAf626Bc5d507bB38764E122CF209",
+    "decimals": 18,
+    "icon": "https://config.klaytn.foundation/token/icon/0xAAecB956075dAf626Bc5d507bB38764E122CF209.png",
+    "chain_id": "8217"
+  },
+  {
     "symbol": "NOX",
     "name": "Nox",
     "address": "0x5166FA1AcbA89E5e0DE27841a1110B7f9aC112Da",
