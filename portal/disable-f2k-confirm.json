@@ -1,5 +1,5 @@
 {
-	"develop": "false",
-	"staging": "true",
-	"production": "false"
+  "develop": "false",
+  "staging": "false",
+  "production": "false"
 }
