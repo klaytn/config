@@ -1,0 +1,126 @@
+[
+  {
+    "question": "Where can I find out more about the merge?",
+    "answer": "You can find more information about the merge on our official website and in our documentation section.\n\nUse line breaks to make text more readable. Link user to a page where appropriate.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "question": "What will happen to KLAY and FNSA?",
+    "answer": "KLAY and FNSA will continue to operate as usual. Any updates or changes will be communicated through official channels.\n\nFor more detailed information, please refer to our latest announcements and FAQ section."
+  },
+  {
+    "question": "Will I need to create a new wallet for Kaia?",
+    "answer": "No, you will not need to create a new wallet for Kaia. Your existing wallet will be compatible.\n\nEnsure your wallet software is updated to the latest version to avoid any issues."
+  },
+  {
+    "question": "I'm halfway building a DApp on Klaytn, how will this affect me?",
+    "answer": "Your DApp development on Klaytn will not be affected. You can continue your work seamlessly.\n\nAll existing tools and libraries will remain compatible with the new platform."
+  },
+  {
+    "question": "What do DApps on Klaytn need to do to migrate to Kaia?",
+    "answer": "DApps on Klaytn will need to follow the migration guide provided in our documentation to migrate to Kaia.\n\nThe guide covers all necessary steps to ensure a smooth transition.\n\nFor additional support, our developer team is available to assist you."
+  },
+  {
+    "question": "Is there any downtime expected during the migration?",
+    "answer": "No significant downtime is expected during the migration.\n\nHowever, we recommend checking our status page for real-time updates."
+  },
+  {
+    "question": "Will there be any changes to transaction fees?",
+    "answer": "Transaction fees will remain the same for the foreseeable future.\n\nAny changes will be communicated well in advance to all users."
+  },
+  {
+    "question": "How can I prepare my DApp for the migration?",
+    "answer": "Review the migration guide and update any dependencies as instructed.\n\nTesting your DApp in the new environment prior to the official migration is highly recommended."
+  },
+  {
+    "question": "Will my KLAY tokens be safe during the migration?",
+    "answer": "Yes, your KLAY tokens will be safe during the migration.\n\nEnsure that you follow the recommended security practices to protect your assets."
+  },
+  {
+    "question": "What support is available for developers during the migration?",
+    "answer": "We offer comprehensive support for developers during the migration.\n\nYou can access our support portal, community forums, and direct assistance from our team.\n\nWe also provide extensive documentation and tutorials to help you through the process.\n\nIf you need further assistance, do not hesitate to reach out to our support team."
+  },
+  {
+    "question": "Are there any known issues with the current migration process?",
+    "answer": "Currently, there are no major issues reported with the migration process.\n\nFor the latest updates, check our issue tracker and community forums."
+  },
+  {
+    "question": "Can I revert my DApp back to Klaytn after migrating to Kaia?",
+    "answer": "While reverting is technically possible, it is not recommended.\n\nEnsure you are fully committed to the migration before proceeding."
+  },
+  {
+    "question": "What happens if the migration is delayed?",
+    "answer": "In case of any delays, we will communicate the new timeline promptly.\n\nYour existing setup on Klaytn will continue to function without interruption."
+  },
+  {
+    "question": "How will the migration impact my users?",
+    "answer": "The migration should be seamless for end-users.\n\nNotify your users about the migration and any potential changes they might experience.\n\nProvide clear instructions and support to ensure a smooth transition for your user base.\n\nRegular updates and communication can help minimize any confusion or disruption."
+  },
+  {
+    "question": "Is there a rollback plan in case something goes wrong?",
+    "answer": "Yes, we have a rollback plan in place to ensure minimal disruption.\n\nDetails of the plan will be shared with you in our technical documentation."
+  },
+  {
+    "question": "Will there be new features available on Kaia?",
+    "answer": "Yes, Kaia will introduce several new features and improvements.\n\nKeep an eye on our release notes for detailed information."
+  },
+  {
+    "question": "Do I need to back up my data before the migration?",
+    "answer": "It is always a good practice to back up your data before any major changes.\n\nEnsure you have recent backups of all critical data."
+  },
+  {
+    "question": "Where can I find the migration guide?",
+    "answer": "The migration guide is available in our documentation section.\n\nFollow the step-by-step instructions to ensure a smooth migration."
+  },
+  {
+    "question": "What if I encounter issues during the migration?",
+    "answer": "If you encounter any issues, please contact our support team immediately.\n\nWe are here to help you resolve any problems as quickly as possible."
+  },
+  {
+    "question": "Will there be any changes to the user interface?",
+    "answer": "There may be minor changes to the user interface to accommodate new features.\n\nDetails will be provided in the release notes."
+  },
+  {
+    "question": "How can I test my DApp on Kaia before the official migration?",
+    "answer": "We provide a staging environment for you to test your DApp on Kaia.\n\nAccess the staging environment through our developer portal.\n\nTesting your DApp in a staging environment helps identify potential issues before the official migration.\n\nMake sure to thoroughly test all functionalities and address any issues that arise."
+  },
+  {
+    "question": "What security measures are in place for the migration?",
+    "answer": "We have implemented robust security measures to ensure a safe migration.\n\nRefer to our security documentation for more details.\n\nOur security team continuously monitors for potential threats and vulnerabilities.\n\nRegular security audits and updates are conducted to maintain a high level of protection."
+  },
+  {
+    "question": "How will the migration affect my API integrations?",
+    "answer": "Most API integrations will remain the same.\n\nReview the migration guide for any changes specific to API endpoints."
+  },
+  {
+    "question": "Can I continue to use Klaytn libraries after the migration?",
+    "answer": "Yes, Klaytn libraries will still be compatible with Kaia.\n\nEnsure you update to the latest versions to avoid any issues."
+  },
+  {
+    "question": "What are the benefits of migrating to Kaia?",
+    "answer": "Migrating to Kaia offers several benefits, including improved performance and new features.\n\nCheck our official announcements for a detailed list of benefits.\n\nIn addition to performance improvements, Kaia provides enhanced scalability and security features.\n\nOur development team is committed to continuously improving the platform based on user feedback."
+  },
+  {
+    "question": "Is there a deadline for completing the migration?",
+    "answer": "Yes, there is a deadline for completing the migration.\n\nRefer to our official announcements for the timeline."
+  },
+  {
+    "question": "Will my existing smart contracts need to be updated?",
+    "answer": "Most existing smart contracts will not need updates.\n\nReview the migration guide for any specific requirements.\n\nIf updates are necessary, detailed instructions will be provided in our documentation.\n\nOur support team is available to assist with any required updates or modifications."
+  },
+  {
+    "question": "How will I know if the migration was successful?",
+    "answer": "You will receive a confirmation message once the migration is successful.\n\nCheck your DApp's functionality to ensure everything is working as expected.\n\nPerform thorough testing to verify that all features and integrations are operating correctly.\n\nIf you encounter any issues, contact our support team for assistance."
+  },
+  {
+    "question": "Are there any costs associated with the migration?",
+    "answer": "There are no additional costs associated with the migration.\n\nStandard transaction fees will apply as usual."
+  },
+  {
+    "question": "Can I get help from the community during the migration?",
+    "answer": "Yes, our community forums are a great place to get help and share experiences.\n\nJoin the conversation and get support from fellow developers."
+  },
+  {
+    "question": "What should I do if my migration fails?",
+    "answer": "If your migration fails, please contact our support team immediately.\n\nWe will assist you in troubleshooting and resolving the issue."
+  }
+]
