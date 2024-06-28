@@ -1,0 +1,37 @@
+{
+   "items":[
+      {
+         "name":"Binance",
+         "url":"https://www.binance.com"
+      },
+      {
+         "name":"OKX",
+         "url":"https://www.okx.com"
+      },
+      {
+         "name":"Bybit",
+         "url":"https://www.bybit.com"
+      },
+      {
+         "name":"HTX",
+         "url":"https://www.htx.com"
+      },
+      {
+         "name":"Bitget",
+         "url":"https://www.bitget.com"
+      },
+      {
+         "name":"Bithumb",
+         "url":"https://www.bithumb.com"
+      },
+      {
+         "name":"Coinone",
+         "url":"https://www.coinone.com"
+      }
+   ],
+   "others":{
+      "name":"CoinMarketCap",
+      "url":"https://coinmarketcap.com/currencies/klaytn/"
+   }
+}
+
