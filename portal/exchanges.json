@@ -30,8 +30,8 @@
       }
    ],
    "others":{
-      "name":"CoinMarketCap",
-      "url":"https://coinmarketcap.com/currencies/klaytn/"
+      "name":"Find Others on CoinMarketCap",
+      "url":"https://coinmarketcap.com/currencies/klaytn/#Markets"
    }
 }
 
