@@ -2,31 +2,31 @@
    "items":[
       {
          "name":"Binance",
-         "url":"https://www.binance.com"
+         "url":"https://www.binance.com/trade/KLAY_USDT"
       },
       {
          "name":"OKX",
-         "url":"https://www.okx.com"
+         "url":"https://www.okx.com/trade-spot/klay-usdt"
       },
       {
          "name":"Bybit",
-         "url":"https://www.bybit.com"
+         "url":"https://www.bybit.com/trade/usdt/KLAYUSDT"
       },
       {
          "name":"HTX",
-         "url":"https://www.htx.com"
+         "url":"https://www.htx.com/trade/klay_usdt"
       },
       {
          "name":"Bitget",
-         "url":"https://www.bitget.com"
+         "url":"https://www.bitget.com/asia/spot/KLAYUSDT"
       },
       {
          "name":"Bithumb",
-         "url":"https://www.bithumb.com"
+         "url":"https://www.bithumb.com/react/trade/order/KLAY-BTC"
       },
       {
          "name":"Coinone",
-         "url":"https://www.coinone.com"
+         "url":"https://coinone.co.kr/exchange/trade/klay"
       }
    ],
    "others":{
